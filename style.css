@@ -1,8 +1,11 @@
 img{
   margin: 40px 0 0 0;
-  border-radius: 200px;
   width: 250px;
   height: 200%;
+}
+
+.roundedimg{
+  border-radius: 200px;
 }
 
 h1{
