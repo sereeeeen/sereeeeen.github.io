@@ -1,0 +1,30 @@
+img{
+  margin: 40px 0 0 0;
+  border-radius: 200px;
+  width: 250px;
+  height: 200%;
+}
+
+h1{
+  font-size: 25px
+}
+
+.jumbotron{
+  background: url("http://www.surfpro.com.br/2015/surfoco/surfback.jpg");
+}
+
+
+body{
+  font-family: Helvetica;
+  background-color: #aec6cf;
+}
+
+.YRP{
+  width: 400px;
+  height: 100%;
+}
+
+.AMANA{
+  width: 310px;
+  height: 100%;
+}
